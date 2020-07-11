@@ -22,3 +22,14 @@
   margin: 0 5px;
   font-size: 15px;
 }
+
+.list input {
+  background-color: transparent;
+  border: 0;
+  color: aliceblue;
+  font-size: 18px;
+}
+
+.list input:focus {
+  outline: none;
+}
